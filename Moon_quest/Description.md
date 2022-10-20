@@ -11,4 +11,7 @@
 - Get every gren Items!
 - Reach the final point after get every items
 - Don't fall!
-![image](https://user-images.githubusercontent.com/68217111/196834034-82f25fd0-2197-46dc-ba35-8db8c8aebeea.png)
+
+## Game Image
+![image](https://user-images.githubusercontent.com/68217111/196834107-1b4c4a96-f2af-4b4e-8313-10f6c2d11db7.png)
+
