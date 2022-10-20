@@ -4,7 +4,7 @@
 - Adventure
 - 3D
 
-## Rule
+## Rules
 - Bring back moon to the earth
 - Move moon with w,a,s,d
 - Jump with spacebar
